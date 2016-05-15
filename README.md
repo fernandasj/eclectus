@@ -1,4 +1,4 @@
 # Eclectus
 ## *Construindo um Twitter!*
 
-Esse projeto tem como objetivo principal, ser fonte de estudos para as tecnologias utilizadas, implementando as principais funcionalidades de um Twitter e dando a possibilidade de lidar com situações e funcionalidades do mundo real, bem como tentar produzir uma ótima experiencia para o usuário, na medida do possível.
+Esse projeto tem como objetivo principal, ser fonte de estudos para as tecnologias utilizadas, implementando as principais funcionalidades de um Twitter e dando a possibilidade de lidar com situações e funcionalidades do mundo real.
